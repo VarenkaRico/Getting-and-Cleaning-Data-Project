@@ -5,4 +5,25 @@
 4. std() = Standar Deviation
 5. Acc = Accelerometer
 6. Gyro = Gyroscope
-7- Mag = Magnitud
+7. Mag = Magnitud
+
+The variables measured were:
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+The summary information provides the mean of each activity by subject of the mean and Standard deviation of the variables listed above.
